@@ -7,7 +7,7 @@ public class hm_08 {
         String name = scn.nextLine();
         System.out.print("請輸入您的年齡: ");
         int age = scn.nextInt();
-        //scn.nextLine();
+        scn.nextLine();
         System.out.print("請輸入您的城市: ");
         String city = scn.nextLine();
         
