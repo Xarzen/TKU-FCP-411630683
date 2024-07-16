@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class hm_09 {
     public static void main(String[] args) {
 
@@ -7,3 +6,5 @@ public class hm_09 {
         for (int i = 0; i < array.length; i++) {
             System.out.println("元素 " + i + " 的值是: " + array[i]);
         }
+    }
+}
